@@ -1,0 +1,5 @@
+mnist_dataset/*
+svhn_dataset/*
+*.gz
+*.idx3-ubyte
+*.mat
